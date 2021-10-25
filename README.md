@@ -1,6 +1,6 @@
-# perfonal-portfolio-prject
+# perfonal-portfolio-project
 
-only html3 and css3
+# Only html5 and css3
 
 
 Demo : https://abdullahmamun01.github.io/portfolio-prject/
